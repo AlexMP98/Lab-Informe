@@ -63,7 +63,7 @@ Como se puede apreciar, existe un error del 1.76% en la medición del votaje tot
 
 Link del video: https://youtu.be/UM1tbx-2IxM  
 
-_**6. CONCLUSIONES_**    
+**_6. CONCLUSIONES_**    
 
 
 
