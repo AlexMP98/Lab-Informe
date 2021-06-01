@@ -50,9 +50,22 @@ Tabla 1.3. Verificación de la LCK.
 ![Tabla 1]( https://github.com/AlexMP98/Lab-Informe/blob/main/Imagenes/Tabla3.png)   
 
 4.5 Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.   
+
 Al comparar los valores de los voltajes y las intensidades de corrientes de cada uno de los componentes del circuito en este caso las resistencias, se puede identificar que son diferentes los valores medidos con respecto a los valores calculados, llegando a la conlcusión de que es muy difícil hacer que los resultados sean los mismos, debido a que a la hora de realizar las mediciones siempre va a existir algún margen de error o al momento de calcular, pueden existir confusiones o malos cálculos a la hora de realizar las operaciones respectivas.     
 
 5.5 Cálculo del error    
+
+![Error]( https://github.com/AlexMP98/Lab-Informe/blob/main/Imagenes/Error.png)    
+
+Como se puede apreciar, existe un error del 1.76% en la medición del votaje total de la medición con respecto a nuestro valor calculado, esto se debe a que existió alguna impresición al momento de realizar la medicición y también puede presentare que hubo algún error al momento de realizar las operaciones.
+
+**_5. VIDEO_**    
+
+Link del video: https://youtu.be/UM1tbx-2IxM  
+
+_**6. CONCLUSIONES_**    
+
+
 
 
 
