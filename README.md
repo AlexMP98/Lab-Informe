@@ -15,8 +15,8 @@
 
 
 **_2. MARCO TEÓRICO_**     
-
-
+![marco teorico 1](https://github.com/AlexMP98/Lab-Informe/blob/main/Imagenes/marco%20teorico%201.PNG)
+![marco teorico 2](https://github.com/AlexMP98/Lab-Informe/blob/main/Imagenes/marco%20teorico%202.PNG)
 
 **_3. EXPLICACIÓN DEL PROCEDIMIENTO_**   
 
