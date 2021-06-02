@@ -3,6 +3,7 @@
 ## NRC: 5416   
 
 **_1. OBJETIVOS_** 
+
 Objetivo General
 -Comprobar experimentalmente y analíticamente las leyes de Kirchhoff, aplicadas en la corriente eléctrica, resistencia y voltaje en la solución de circuitos eléctricos
 Objetivos Especificos   
