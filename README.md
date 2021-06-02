@@ -10,9 +10,9 @@ Objetivo General
 
 Objetivos Especificos  
 
--Calcular a partir de las Leyes de Kirchhoff los valores teóricos de las intensidades de corriente y los voltajes en un circuito determinado
+-Calcular a partir de las Leyes de Kirchhoff los valores teóricos de las intensidades de corriente y los voltajes en un circuito determinado.
 
--Comparar los resultados teóricos hallados mediante las leyes mencionadas y los experimentales usando equipos de medición
+-Comparar los resultados teóricos hallados mediante las leyes mencionadas y los experimentales usando equipos de medición.
 
 -Relacionar las Leyes de Kirchhoff con la Ley de Ohm mediante el cálculo matemático de corrientes y tensiones, demostrando así el cumplimiento en la conservación de la energía y la carga.
 
@@ -67,6 +67,8 @@ Link del video: https://youtu.be/UM1tbx-2IxM
 
 **_6. CONCLUSIONES_**    
 
+Las leyes de Kirchhoff resultan de vital importancia en la resolucion de circuitos simples y complejos , además, estas leyes permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos.  
+La veracidad de las dos leyes nos permite tener un mejor entendimiento de las mismas y la importancia al resolver problemas complejos sin necesidad de descomponerlos y convertirlos en problemas mas simples.
 
 
 
