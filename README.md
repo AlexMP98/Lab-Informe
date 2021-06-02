@@ -67,9 +67,14 @@ Link del video: https://youtu.be/UM1tbx-2IxM
 
 **_6. CONCLUSIONES_**    
 
-Las leyes de Kirchhoff resultan de vital importancia en la resolucion de circuitos simples y complejos , además, estas leyes permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos.  
+* Es importante comprender la ley de Ohm, ya que gracias a esta ley conocemos la fórmula de la intensidad de corriente y a partir de ahí ya podemos ir calculando el resto de los valores de cada componente del circuito eléctrico, además de que la ley de Ohm está relacionado con las leyes de Kirchof y de esta manera se pudo resolver las tablas de las trayectorias y nodos.   
+* Al comparar los valores medidos con los valores calculados, se concluye que no son iguales, como se menciono en puntos anteriorees, esto se debe a la presencia de un error en las mediciones o también se presentaron errores al momento de realizar los cálculos y las operaciones correspondientes a la ley de ohm.
+* Es un poco complicado obtener el 100% de precisión y exactitud en las mediciones, ya que siempre existirán diferentes factores que eviten que esto suceda, ya sea una mala calibración del instrumento, un mal uso de este, entre otros.    
 
-La veracidad de las dos leyes nos permite tener un mejor entendimiento de las mismas y la importancia al resolver problemas complejos sin necesidad de descomponerlos y convertirlos en problemas mas simples.
+**_7. BIBLIOGRAFÍA_**   
+
+H.Robbins, A., & Wilhem C. Miller. (2008). Análisis de circuitos: teoría y práctica, Cuarta Edición. Ciudad de México: CENGAGE Learning.   
+
 
 
 
