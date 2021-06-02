@@ -2,18 +2,13 @@
 ## Integrantes: Masaquiza Alex, Morillo Ariel, Gaona Carlos   
 ## NRC: 5416   
 
-**_1. OBJETIVOS_**    
-
-
-
-
-
-
-
-
-
-
-
+**_1. OBJETIVOS_** 
+Objetivo General
+-Comprobar experimentalmente y analíticamente las leyes de Kirchhoff, aplicadas en la corriente eléctrica, resistencia y voltaje en la solución de circuitos eléctricos
+Objetivos Especificos   
+-Calcular a partir de las Leyes de Kirchhoff los valores teóricos de las intensidades de corriente y los voltajes en un circuito determinado
+-Comparar los resultados teóricos hallados mediante las leyes mencionadas y los experimentales usando equipos de medición
+-Relacionar las Leyes de Kirchhoff con la Ley de Ohm mediante el cálculo matemático de corrientes y tensiones, demostrando así el cumplimiento en la conservación de la energía y la carga.
 **_2. MARCO TEÓRICO_**     
 ![marco teorico 1](https://github.com/AlexMP98/Lab-Informe/blob/main/Imagenes/marco%20teorico%201.PNG)
 ![marco teorico 2](https://github.com/AlexMP98/Lab-Informe/blob/main/Imagenes/marco%20teorico%202.PNG)
