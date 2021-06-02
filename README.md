@@ -30,7 +30,9 @@ Objetivos Especificos
 ![Paso 5](https://github.com/AlexMP98/Lab-Informe/blob/main/Imagenes/Paso%205.png)
 ![Paso 6](https://github.com/AlexMP98/Lab-Informe/blob/main/Imagenes/Paso%206.png)   
 
-**_4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR_**   
+**_4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR_**      
+![Calculos](https://github.com/AlexMP98/Lab-Informe/blob/main/Imagenes/Calculos.png)   
+
 4.1. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 resultados de las mediciones en la tabla 1.1.
 
